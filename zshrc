@@ -48,3 +48,4 @@ sudo /etc/init.d/postgresql start
 export DISPLAY=192.168.81.241:0
 export DISPLAY=192.168.212.65:0
 export BUNDLER_EDITOR="subl $@ >/dev/null 2>&1 -a"
+export BUNDLER_EDITOR="'/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl' -a"
